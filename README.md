@@ -46,7 +46,7 @@ Created dynamic dashboards in Excel and Power BI from 5K+ sales records.
 
 ## 📫 Contact
 
-📧 shilpa.yourmail@example.com  
-🔗 [LinkedIn: linkedin.com/in/shilpaadiga](https://www.linkedin.com/in/shilpaadiga)
+📧 shilpa.adiga09@gmail.com  
+🔗 [LinkedIn: linkedin.com/in/shilpaadiga](https://www.linkedin.com/in/shilpa-adiga-569838169/)
 
 ---
