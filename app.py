@@ -278,8 +278,8 @@ st.markdown("""
 st.markdown("---")
 st.header("📬 Let's Connect")
 st.markdown("""
-📧 [**shilpa.yourmail@example.com**](mailto:shilpa.yourmail@example.com)  
-🔗 [**LinkedIn: linkedin.com/in/shilpaadiga**](https://www.linkedin.com/in/shilpaadiga)
+📧 [**shilpaadiga09@gmail.com **](mailto:shilpaadiga09@gmail.com )  
+🔗 [**LinkedIn: linkedin.com/in/shilpaadiga**](https://www.linkedin.com/in/shilpa-adiga-569838169/)
 """)
 
 # ---- FOOTER ----
